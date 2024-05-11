@@ -1,4 +1,4 @@
-package com.github.josebatista.serverdrivenui.domain.mapper
+package com.github.josebatista.serverdrivenui.data.mapper
 
 import com.github.josebatista.serverdrivenui.data.dto.ActionDto
 import com.github.josebatista.serverdrivenui.domain.model.Action
